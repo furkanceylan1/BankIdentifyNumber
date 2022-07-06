@@ -13,6 +13,7 @@
 		DC2268F32875DCA4004CCFB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC2268F12875DCA4004CCFB9 /* Main.storyboard */; };
 		DC2268F52875DCA4004CCFB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC2268F42875DCA4004CCFB9 /* Assets.xcassets */; };
 		DC2268F82875DCA4004CCFB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC2268F62875DCA4004CCFB9 /* LaunchScreen.storyboard */; };
+		DC2269002875DFDE004CCFB9 /* ApiKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC2268FF2875DFDE004CCFB9 /* ApiKey.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC2268F42875DCA4004CCFB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC2268F72875DCA4004CCFB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC2268F92875DCA4004CCFB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC2268FF2875DFDE004CCFB9 /* ApiKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiKey.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DC2268EB2875DCA4004CCFB9 /* AppDelegate.swift */,
 				DC2268ED2875DCA4004CCFB9 /* SceneDelegate.swift */,
 				DC2268EF2875DCA4004CCFB9 /* ViewController.swift */,
+				DC2268FF2875DFDE004CCFB9 /* ApiKey.swift */,
 				DC2268F12875DCA4004CCFB9 /* Main.storyboard */,
 				DC2268F42875DCA4004CCFB9 /* Assets.xcassets */,
 				DC2268F62875DCA4004CCFB9 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				DC2268F02875DCA4004CCFB9 /* ViewController.swift in Sources */,
 				DC2268EC2875DCA4004CCFB9 /* AppDelegate.swift in Sources */,
+				DC2269002875DFDE004CCFB9 /* ApiKey.swift in Sources */,
 				DC2268EE2875DCA4004CCFB9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
